@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/WorldCup_2030_ReactAPP/static/css/main.9d7d448e.css",
+    "main.js": "/WorldCup_2030_ReactAPP/static/js/main.fe513d08.js",
+    "static/js/787.7aca26ae.chunk.js": "/WorldCup_2030_ReactAPP/static/js/787.7aca26ae.chunk.js",
+    "static/media/pays2.mp4": "/WorldCup_2030_ReactAPP/static/media/pays2.7e883ffc0f5be578398e.mp4",
+    "static/media/pays3.mp4": "/WorldCup_2030_ReactAPP/static/media/pays3.4d22ded81fe08e96537a.mp4",
+    "static/media/pays1.mp4": "/WorldCup_2030_ReactAPP/static/media/pays1.3d8c6a34562b08eba593.mp4",
+    "static/media/attakafa.png": "/WorldCup_2030_ReactAPP/static/media/attakafa.63cfe8da7a5f88d999f2.png",
+    "static/media/portugal.png": "/WorldCup_2030_ReactAPP/static/media/portugal.eb0b1abd723b5a4a43dd.png",
+    "static/media/stadiums.png": "/WorldCup_2030_ReactAPP/static/media/stadiums.eb1905488373797acc69.png",
+    "static/media/spain.png": "/WorldCup_2030_ReactAPP/static/media/spain.48897e27410a62aadbb6.png",
+    "static/media/sahara.png": "/WorldCup_2030_ReactAPP/static/media/sahara.804395a1abf31791a5e3.png",
+    "static/media/worldcup.jpg": "/WorldCup_2030_ReactAPP/static/media/worldcup.36c7ea2fbb048cca62e0.jpg",
+    "static/media/BackHome.png": "/WorldCup_2030_ReactAPP/static/media/BackHome.03196640d8e4cf8d495f.png",
+    "static/media/logoSolo.png": "/WorldCup_2030_ReactAPP/static/media/logoSolo.169e848600a4b3e01725.png",
+    "static/media/logoText.png": "/WorldCup_2030_ReactAPP/static/media/logoText.abd8b1a7cff3e7cca660.png",
+    "static/media/iconMapLight.png": "/WorldCup_2030_ReactAPP/static/media/iconMapLight.51712ae9dc9de5b81e18.png",
+    "static/media/iconMapDark.png": "/WorldCup_2030_ReactAPP/static/media/iconMapDark.1229a1bad36eab0a4f4a.png",
+    "static/media/islamicDark.jpg": "/WorldCup_2030_ReactAPP/static/media/islamicDark.3462516cbea1f431f1fe.jpg",
+    "static/media/separatorDark.png": "/WorldCup_2030_ReactAPP/static/media/separatorDark.d88ed02577ade13a51a4.png",
+    "static/media/separatorLight.png": "/WorldCup_2030_ReactAPP/static/media/separatorLight.04a3bd971d0b2026fa04.png",
+    "static/media/islamicLight.jpg": "/WorldCup_2030_ReactAPP/static/media/islamicLight.f86ab794e36f6acce857.jpg",
+    "static/media/slick.svg": "/WorldCup_2030_ReactAPP/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/WorldCup_2030_ReactAPP/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/WorldCup_2030_ReactAPP/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/WorldCup_2030_ReactAPP/index.html",
+    "static/media/slick.woff": "/WorldCup_2030_ReactAPP/static/media/slick.295183786cd8a1389865.woff",
+    "main.9d7d448e.css.map": "/WorldCup_2030_ReactAPP/static/css/main.9d7d448e.css.map",
+    "main.fe513d08.js.map": "/WorldCup_2030_ReactAPP/static/js/main.fe513d08.js.map",
+    "787.7aca26ae.chunk.js.map": "/WorldCup_2030_ReactAPP/static/js/787.7aca26ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d7d448e.css",
+    "static/js/main.fe513d08.js"
+  ]
+}
