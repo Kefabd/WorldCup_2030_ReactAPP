@@ -1,0 +1,49 @@
+{
+    "costumeCategories1": [
+      {
+        "name": "Traditional Spanish Flamenco Dress",
+        "image": "https://ae01.alicdn.com/kf/HTB1BiHHeL6TBKNjSZJiq6zKVFXaV/Spanish-Traditional-Bullfight-Festival-Women-Flamenco-Dance-Costumes-Red-Skirt-Performance-Stage-Wear-Ballroom-Dress.jpg_q50.jpg",
+        "description": "A vibrant and flowing dress worn during Flamenco dance performances."
+      },
+      {
+        "name": "Matador Suit",
+        "image": "https://i.pinimg.com/originals/0b/48/bd/0b48bd46b0d1850db2be50c866790b45.jpg",
+        "description": "The iconic suit worn by matadors during bullfighting events."
+      }
+    ],
+    "costumeCategories2": [
+      {
+        "name": "Traditional Portuguese Folk Costume",
+        "image": "https://i.pinimg.com/originals/ff/1a/a0/ff1aa07b958c0934edf921e7b82fa053.jpg",
+        "description": "Colorful and intricately designed traditional costume worn during cultural events."
+      },
+      {
+        "name": "Fado Singer Attire",
+        "image": "https://www.hometown-lisbon.com/var/uploads/images/161026%20-%20Fado%20in%20Lisboa/1%20-%20Singer%20of%20Fado.jpg",
+        "description": "Clothing worn by Fado singers, reflecting the rich musical tradition of Portugal."
+      }
+    ],
+    "costumeCategories3": [
+      {
+        "name": "Chedda tetouania",
+        "image": "https://th.bing.com/th/id/OIP.r5L55DFT_unxfxZYq9RuOgHaHm?rs=1&pid=ImgDetMain",
+        "description": "The Chedda is the traditional bridal attire of Tetouan, with origins dating back to Muslim Andalusia.The bride wears a two-piece caftan and a wide ancient belt called 'Hzam Sqalli,' imported from Fes and named after the Sqalli family who perpetuated this tradition. On top, she wears a white 'Errda' (Berber izar) adorned with golden stripes or lace."
+      },
+      {
+        "name": "Traditional Moroccan Djellaba",
+        "image": "https://i.pinimg.com/originals/72/16/c9/7216c960715932f3aad32781ef576ec4.jpg",
+        "description": "A long, loose-fitting outer robe with a hood, commonly worn in Morocco."
+      },
+      {
+        "name": "Berber Tribal Attire",
+        "image": "https://laudinne.com/images/robe-berbere-marocaine/robe-berbere-marocaine-77-17.jpg",
+        "description": "Traditional clothing worn by the Berber people, showcasing intricate patterns and vibrant colors."
+      },
+      {
+        "name": "Daraa sahara",
+        "image": "https://i.pinimg.com/originals/12/dc/49/12dc4940d5e852dc8908bd955c16fd02.jpg",
+        "description": "The 'Daraa' is a loose-fitting garment adorned with a few colorful motifs and has two wide openings on each side. It is available in two colors: blue or white. Sahrawi men wear the 'Daraa' in their daily lives as well as during celebrations and special occasions. It is typically worn with a shirt and loose-fitting pants."
+      }
+    ]
+  }
+  

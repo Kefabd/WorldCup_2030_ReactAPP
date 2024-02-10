@@ -1,0 +1,92 @@
+{
+    "link3": [
+      {
+        "text": " Transportation",
+        "link": "https://www.oncf.ma/fr/"
+      },
+      {
+        "text":"Accommodation",
+        "link":"https://www.airbnb.com/s/Morocco"
+      }
+      ,
+      {
+        "text":"Restaurants and Moroccan Cuisine",
+        "link":"https://www.zomato.com/morocco"
+      }
+      ,
+      {
+        "text":"Cultural Activities",
+        "link":"https://www.agendaculturel.ma/"
+      }
+      ,
+      {
+        "text":"Events and Festivals",
+        "link":"https://www.visitmorocco.com/en/events"
+      }
+      ,
+      {
+        "text":"Official Tourist Information",
+        "link":"https://embassy.goabroad.com/embassies-of/morocco"
+      }
+    ],
+    "link1": [
+        {
+          "text": " Transportation",
+          "link": "https://www.renfe.com/"
+        },
+        {
+          "text":"Accommodation",
+          "link":"https://www.airbnb.com/s/Spain"
+        }
+        ,
+        {
+          "text":"Restaurants and Spanish Cuisine",
+          "link":"https://www.eltenedor.es/en/"
+        }
+        ,
+        {
+          "text":"Cultural Activities",
+          "link":"https://www.culturaydeporte.gob.es/cultura.html"
+        }
+        ,
+        {
+          "text":"Events and Festivals",
+          "link":"https://www.spain.info/en/culture/festivals/"
+        }
+        ,
+        {
+          "text":"Official Tourist Information",
+          "link":"https://embassy.goabroad.com/embassies-of/spain"
+        }
+      ],
+      "link2": [
+          {
+            "text": " Transportation",
+            "link": "https://www.renfe.com/"
+          },
+          {
+            "text":"Accommodation",
+            "link":"https://www.airbnb.com/s/Spain"
+          }
+          ,
+          {
+            "text":"Restaurants and Spanish Cuisine",
+            "link":"https://www.eltenedor.es/en/"
+          }
+          ,
+          {
+            "text":"Cultural Activities",
+            "link":"https://www.culturaydeporte.gob.es/cultura.html"
+          }
+          ,
+          {
+            "text":"Events and Festivals",
+            "link":"https://www.spain.info/en/culture/festivals/"
+          }
+          ,
+          {
+            "text":"Official Tourist Information",
+            "link":"https://embassy.goabroad.com/embassies-of/spain"
+          }
+        ]
+}

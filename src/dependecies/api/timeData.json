@@ -1,0 +1,82 @@
+{
+  "time1": [
+    {
+      "year": "1492",
+      "title": "Foundation of Modern Spain",
+      "description": "The Christian Kingdoms of Castile and Aragon conquer the Emirate of Granada, ending nearly 800 years of Muslim rule in the south and founding modern Spain as a united state."
+    },
+    {
+      "year": "16th-17th",
+      "title": "The Spanish Empire",
+      "description": "Spanish Empire at its height, with Spain the predominant European power. The rise of Protestant states in northern Europe and the Ottoman Empire in the Mediterranean begin the country's gradual decline."
+    },
+    {
+      "year": "18th ",
+      "title": "War of the Spanish Succession and Decline",
+      "description": "The War of the Spanish Succession loses Spain its European possessions outside the Iberian Peninsula. Bourbon dynasty, originally from France, centralises the Spanish state, shutting down many regional autonomous assemblies and modernising government and the military."
+    },
+    {
+      "year": "1807-1814",
+      "title": "Napoleon's Occupation and Resistance",
+      "description": "Napoleon's France occupies Spain, which has been a French satellite since 1795. Fierce nationalist resistance and British intervention in the Peninsular War gradually forces French troops out."
+    },
+    {
+      "year": "19th",
+      "title": " Independence of Latin American Colonies",
+      "description": "All Latin American colonies win their independence, with Cuba, Puerto Rico, and the Philippines in Asia lost during a disastrous war with the United States in 1898."
+    }],
+    "time2": [
+    {
+      "year":"1139",
+      "title":"Foundation of Modern Spain",
+      "description":"The Christian Kingdoms of Castile and Aragon conquer the Emirate of Granada, ending nearly 800 years of Muslim rule in the south and founding modern Spain as a united state."
+    },
+    {
+      "year":"1750",
+      "title":"Marques de Pombal's Rule",
+      "description":"Marques de Pombal begins his rule, initiating reforms and modernization efforts, while facing challenges such as the Lisbon Earthquake."
+    },
+    {
+      "year":"1825",
+      "title":"Surrender to Brazil",
+      "description":"Portugal officially surrenders to Brazil, recognizing its independence and the end of colonial dominance."
+    },
+    {
+      "year":"1999",
+      "title":"Macau's Independence",
+      "description":"The last Portuguese overseas colony, Macau, is granted independence and returned to China."
+    },
+    {
+      "year":"2002",
+      "title":"Adoption of the Euro",
+      "description":"Portugal adopts the Euro as its national currency, replacing the Escudo."
+    }],
+    "time3": [
+    {
+      "year":"7th - 8th",
+      "title":"Islamic Conquests and Idrisid Dynasty",
+      "description":"During the 7th to 8th century, Morocco witnessed significant change with the Islamic conquests and the establishment of the Idrisid Dynasty in 788. This era marked the introduction of Islam, shaping both the political and cultural identity of the region under the rule of the Idrisids."
+    },
+    {
+      "year":"11th - 13th",
+      "title":" Almoravid and Almohad Empires",
+      "description":"The 11th to 13th centuries in Morocco were characterized by the rise of the Almoravid and Almohad Empires. These Berber dynasties played a crucial role in shaping the religious and cultural landscape, leaving a lasting impact on the region. The Almoravids and Almohads expanded their influence through military conquests and promoted Islamic "
+    },
+    {
+      "year":"16th",
+      "title":"Saadian Dynasty and the Golden Age",
+      "description":"The 16th century is often regarded as the Golden Age of Morocco, attributed to the Saadian Dynasty. Under their rule, Morocco experienced a period of artistic and intellectual flourishing. The Saadians left an indelible mark with architectural achievements, including the renowned Saadian Tombs, reflecting the cultural richness of the time."
+    },
+    {
+      "year":"20th",
+      "title":"French and Spanish Protectorate",
+      "description":"In the 20th century, Morocco underwent a transformative period with the establishment of the French and Spanish Protectorate. This era, lasting from 1912 to 1956, saw foreign influence shaping Moroccan politics and society. The struggle for independence gained momentum during this time, leading to Morocco reclaiming its sovereignty in 1956."
+    },
+    {
+      "year":" 21st",
+      "title":"Towards Innovation and Modernization",
+      "description":"In the 21st century, Morocco has embarked on a journey towards innovation and modernization, embracing technological advancements and economic diversification. The country has implemented strategic initiatives to foster innovation in various sectors, including renewable energy, information technology, and education. Morocco's commitment to sustainable development and progressive policies positions it as a dynamic player in the global landscape, shaping its future trajectory."
+    }
+  ]
+}
+  

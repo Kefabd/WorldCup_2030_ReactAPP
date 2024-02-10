@@ -1,0 +1,85 @@
+{
+    "artCategories3": [
+      {
+        "name": "Woodwork",
+        "description": "Among the most beautiful art objects are those related to woodwork, especially from cedar, olive, or thuja roots...",
+        "image": "https://p1.storage.canalblog.com/17/40/1308568/101637410_o.jpg"
+      },
+      {
+        "name": "Metalwork",
+        "description": "In addition to wood, Morocco is renowned for the work of various metals such as copper, silver, bronze, and even gold...",
+        "image": "https://www.maroc-hebdo.press.ma/files/2020/07/artisant-homme.jpg"
+      },
+      {
+        "name": "Art of Carpets",
+        "description": "The art of Moroccan carpets is exceptional. It's true that weaving is one of the oldest craft activities in the country...",
+        "image": "https://www.lesjardinsdelamedina.com/blog/wp-content/uploads/2020/06/tapis2.jpg"
+      },
+      {
+        "name": "Pottery",
+        "description": "The subtle work of clay also allows for the shaping of beautiful objects. The Moroccan pottery art is renowned...",
+        "image": "https://i.pinimg.com/originals/7f/c1/aa/7fc1aad3dc065e202cf298303f3343e0.jpg"
+      },
+      {
+        "name": "Painting",
+        "description": "If the landscapes and scenes of Moroccan life have inspired many Western painters...",
+        "image": "https://th.bing.com/th/id/R.02f278f7e28b0fbaadbf5c02e2fbe682?rik=amVYp7yWSqiuag&riu=http%3a%2f%2fcoquelicot2007.c.o.pic.centerblog.net%2fy25uw6ba.jpg&ehk=DbzrYiFXANzxH5GGl9zPuMhcxsJjeOfh0%2bsupF7BEtc%3d&risl=&pid=ImgRaw&r=0"
+      }
+    ],
+      "artCategories1": [
+        {
+          "name": "Sculpture",
+          "description": "Spain has a rich tradition of sculpture, from ancient Roman sculptures to modern masterpieces.",
+          "image": "https://th.bing.com/th/id/R.40bc4936e66dd4a708b03f04b8c784bf?rik=C3x4D05wT4GlRg&riu=http%3a%2f%2fourworldforyou.com%2fwp-content%2fuploads%2f2016%2f10%2fLa-Regenta-Oviedo-Spain.jpg%3fis-pending-load%3d1&ehk=8Qt0mW1159%2buxAYmfuLM4NRNghUOULV023w274k8xM0%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {
+          "name": "Architecture",
+          "description": "Spanish architecture is diverse, ranging from medieval castles to iconic modernist structures.",
+          "image": "https://www.luxxu.net/blog/wp-content/uploads/2019/08/5-Outstanding-Buildings-in-Spanish-Architecture-02.jpg"
+        },
+        {
+          "name": "Painting",
+          "description": "Spanish painters have made significant contributions to art, with famous works from artists like Picasso and Velázquez.",
+          "image": "https://th.bing.com/th/id/OIP.tbsGbw65w6yuHw1doWke0gHaDV?rs=1&pid=ImgDetMain"
+        },
+        {
+          "name": "Flamenco",
+          "description": "Flamenco is a traditional Spanish art form that includes singing, guitar playing, dance, handclaps, and finger snaps.",
+          "image": "https://th.bing.com/th/id/OIP.HkrVhxqUIhtoCGcAq87LYgHaHp?rs=1&pid=ImgDetMain"
+        },
+        {
+          "name": "Pottery",
+          "description": "Spanish pottery is known for its vibrant colors and intricate designs, reflecting the country's rich cultural heritage.",
+          "image": "https://th.bing.com/th/id/R.dadcfaca62f6de3e5314d31428b52b18?rik=xMGujoKCraes2A&pid=ImgRaw&r=0"
+        }
+      ],
+      "artCategories2": [
+        {
+            "name": "Sculpture",
+            "description": "Portugal has a rich tradition of sculpture, with influences from various historical periods, creating a diverse and captivating collection of artworks.",
+            "image": "https://www.beliefnet.com/love-family/parenting/articles/~/media/6C205F110B334CE082918B8DCE473E9D.ashx?w=381&hash=6C2B94BBA2F2683B1875AFA10D28FA061895FA78"
+        },
+        {
+            "name": "Architecture",
+            "description": "Portuguese architecture is characterized by a blend of styles, including Manueline, Gothic, and Moorish influences. From historic castles to modern structures, Portugal showcases a unique architectural identity.",
+            "image": "https://www.techno-science.net/illustration/Definition/inconnu/c/Cloisters-at-Mosteiro-Dos-Jer-C3-B3nimos2.jpg"
+        },
+        {
+            "name": "Painting",
+            "description": "Portuguese painters have left their mark on the art world, contributing to various movements. Notable Portuguese painters, such as José Malhoa and Paula Rego, have created impactful works that reflect the country's cultural and artistic richness.",
+            "image": "https://th.bing.com/th/id/OIP.unVMLzHKarfxHJ_Iea-DiwHaFR?rs=1&pid=ImgDetMain"
+        },
+        {
+            "name": "Fado Music",
+            "description": "Fado is a traditional Portuguese music genre, often characterized by melancholic tunes and soulful lyrics. It is an essential part of Portugal's cultural heritage, expressing the country's emotions and history through music.",
+            "image": "https://th.bing.com/th/id/R.f5e05c720e57cf6095014811b713a75b?rik=sHT67ovzgGpSPw&riu=http%3a%2f%2fwww.magix-photos.com%2fmpwhd02%2f10%2f532%2f54981A7068F811E480771DF890B866E4.jpg&ehk=u9XUAjnCruDmj5W2PjqeBcxzjKpO15R%2bN%2baOtbvOvY4%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {
+            "name": "Ceramics",
+            "description": "Portuguese ceramics are renowned for their intricate patterns and vibrant colors. From traditional azulejos to contemporary pottery, Portugal's ceramic artistry reflects a deep connection to its history and craftsmanship.",
+            "image": "https://th.bing.com/th/id/R.01c18702c71b0bf29b39191b3688993e?rik=Dl6sJNooYmfzIA&pid=ImgRaw&r=0"
+        }
+    ]
+    
+  }
+  

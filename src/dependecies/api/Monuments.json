@@ -1,0 +1,326 @@
+[
+    {
+      "nom": "La Mosquée Hassan II",
+      "ville": "Casablanca",
+      "description": "Une grande mosquée à Casablanca.",
+      "image":"https://www.btpnews.ma/wp-content/uploads/2019/02/MOSQU2.jpg",
+      "coord":{"latitude":33.60832323461739,"longitude":-7.6327219652229745}
+    },
+    {
+        "nom": "Église du Sacré-Cœur",
+        "ville": "Casablanca",
+        "description": "un ancien sanctuaire catholique de la ville de Casablanca.",
+        "image":"https://www.moroccoworldnews.com/wp-content/uploads/2014/11/casablanca-Sacre-Couer-church.jpg",
+        "coord":{"latitude":33.59181141391093,"longitude": -7.6243427896375655}
+    },
+    {
+        "nom": "phare d'El Hank",
+        "ville": "Casablanca",
+        "description": " un phare situé sur la pointe d'El Hank à l'ouest du port de Casablanca. Il est est le plus haut phare du Maroc.",
+        "image":"https://2.bp.blogspot.com/-MvyV2K0E_ww/UQPY-75n0FI/AAAAAAAAcUI/3Ifo_z1UA3w/s1600/Casablanca+Morocco+9.jpg",
+        "coord":{"latitude":33.61013000742288,"longitude":-7.654677818141984}
+    },
+    {
+      "nom": "Jardin Majorelle",
+      "ville": "Marrakech",
+      "description": "Un jardin botanique à Marrakech.",
+      "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/f6/a5/7b/caption.jpg?w=1200&h=-1&s=1",
+      "coord":{"latitude":31.641367485785636, "longitude":-8.00307877221393}
+    }
+    ,
+    {
+      "nom": "Mosquée Koutoubia",
+      "ville": "Marrakech",
+      "description": "Un édifice religieux construit au XIIe siècle à Marrakech.",
+      "image":"https://www.infomediaire.net/wp-content/uploads/2019/03/ttourisme-maroc-696x487.jpg",
+      "coord":{"latitude":31.62433309534028, "longitude":-7.99371499105924}
+    }
+    ,
+    {
+      "nom": "Musée Dar Si Saïd",
+      "ville": "Marrakech",
+      "description": "Un musée situé à Marrakech, entièrement consacré à l'artisanat marocain du bois.",
+      "image":"//i.pinimg.com/originals/0b/e2/06/0be206dad478b548b3b588ab70383834.jpg",
+      "coord":{"latitude":31.62346613869323, "longitude":-7.983942774065991}
+    },
+    {
+      "nom": "Tour Hassan",
+      "ville": "Rabat",
+      "description": "Une tour emblématique de Rabat, capitale du Maroc, constituant le minaret d'une mosquée du XIIe siècle inachevée.",
+      "image":"https://th.bing.com/th/id/R.2080513f73045749f4812222d2f62fd9?rik=JYudg0Xr5aPCYQ&riu=http%3a%2f%2fdiscoverymorocco.net%2fwp-content%2fuploads%2f2018%2f04%2fekpJwbR-1024x790.jpg&ehk=eJi3QFGf0%2bTzieFzBzY7wWhbW5ECIYnsyLjKwdaHMOs%3d&risl=&pid=ImgRaw&r=0",
+      "coord":{"latitude":34.02426430665752,"longitude": -6.822981177642677}
+    },
+    {
+      "nom": "Chellah",
+      "ville": "Rabat",
+      "description": "Le site d'une nécropole mérinide située sur l'emplacement d'une cité antique, dans l'actuelle ville de Rabat.",
+      "image":"https://www.dorialexploratrice.com/images/tourisme/rabat-chellah/rabat-chellah-40.jpg",
+      "coord":{"latitude":34.00673909387102, "longitude":-6.820340760448883}
+    },
+    {
+      "nom": "Borj Sirat",
+      "ville": "Rabat",
+      "description": "Un bastion situé à l'extrémité ouest du rempart maritime de Rabat.",
+      "image":"https://th.bing.com/th/id/R.e8b5803954058c2814e2602351b815ea?rik=DBypGV88R4dkRQ&pid=ImgRaw&r=0",
+      "coord":{"latitude":34.034774067351314, "longitude":-6.845640615557712}
+    },
+    {
+      "nom": "Al Quaraouiyine",
+      "ville": "Fès",
+      "description": "Une université située à Fès. Selon la tradition, sa construction débute en 859 sous le règne de la dynastie idrisside. Elle est considérée comme la plus ancienne université au monde encore en activité par l'UNESCO",
+      "image":"https://th.bing.com/th/id/R.cf4d29dded08f009eebaa23a912d5d19?rik=zMNcoL4%2bgiXLDA&riu=http%3a%2f%2fhotel-fes.com%2fwp-content%2fuploads%2fAl_Quaraouiyine-fez-Morroco.jpg&ehk=DWcsijUebRKDG2Udi6DbeL9E85IYMb3koLWtGc%2bRQMg%3d&risl=&pid=ImgRaw&r=0",
+      "coord":{"latitude":34.06508985335146,"longitude":-4.9733559757892785}
+    }
+    ,
+    {
+      "nom": "Bab Dekkakin",
+      "ville": "Fès",
+      "description": "Une porte fortifiée et cérémonielle basée Fès.",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fes_-_Palau_Reial_-_Bab_El_Seba_des_N.JPG/1024px-Fes_-_Palau_Reial_-_Bab_El_Seba_des_N.JPG",
+      "coord":{"latitude":34.05955232733803,"longitude": -4.991152902685027}
+    }
+    ,
+    {
+      "nom": "Borj Nord",
+      "ville": "Fès",
+      "description": "Un fort élevé en 1582 sur ordre du sultan Ahmed al-Mansur, dont le plan s'inspire de l'architecture des forteresses portugaises du XVIe siècle.",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kasbah_Cherarda%28js%29.jpg/1024px-Kasbah_Cherarda%28js%29.jpg",
+      "coord":{"latitude":34.0675379993557, "longitude":-4.984814787430272}
+    }
+    ,
+    {
+      "nom": "Grottes d'Hercule",
+      "ville": "Tanger",
+      "description": "Des cavernes naturelles situées à une dizaine de kilomètres de Tanger, au Maroc, à l'entrée atlantique du détroit de Gibraltar.",
+      "image":"https://www.cityzeum.com/images/lieu/sept2018/ph_604.jpg",
+      "coord":{"latitude":35.760107595399965, "longitude":-5.939188989187871}
+    }
+    ,
+    {
+      "nom": "Phare du cap Spartel",
+      "ville": "Tanger",
+      "description": "Le phare du cap Spartel est un phare situé sur le cap Spartel, au nord-ouest de la ville de Tanger.",
+      "image":"https://static.yabiladi.com/files/articles/de55785918d1c8cb06a02dd2e406c905.jpg",
+      "coord":{"latitude":35.79124813270868, "longitude":-5.923787345006721}
+    }
+    ,{
+        "nom": "Cathédrale Notre-Dame-de-l'Assomption",
+        "ville": "Tanger",
+        "description": "La cathédrale catholique de la ville de Tanger et le siège de l'archidiocèse de Tanger, l'un des deux diocèses de l'Église catholique au Maroc. Elle est dédiée à l'Assomption de Marie. ",
+        "image":"https://th.bing.com/th/id/R.be5de3fc56bbdd1ae483d7a376b0b21e?rik=24RyUEefAjrNDw&pid=ImgRaw&r=0",
+        "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+      },
+      {
+                "nom": "Sagrada Família",
+                "ville": "Barcelona",
+                "description": "A neo-Gothic basilica designed by architect Antoni Gaudí.",
+                "image": "https://th.bing.com/th/id/R.5573865944809af03ca886bd4d4127ce?rik=fFM5Kkm%2bS9etIA&pid=ImgRaw&r=0",
+                "coord":{"latitude":41.40380691305545, "longitude": 2.1743450669726685}
+            },
+            {
+                "nom": "La Rambla",
+                "ville": "Barcelona",
+                "description": "An iconic avenue in the heart of Barcelona, known for its lively atmosphere and attractions.",
+                "image": "https://th.bing.com/th/id/OIP.7Amgkm4LYATHsT7MUrFBygHaE7?rs=1&pid=ImgDetMain",
+                "coord":{"latitude":41.385713315901384, "longitude":2.1697951381356315 }
+            },
+            {
+                "nom": "Casa Batlló",
+                "ville": "Barcelona",
+                "description": "A modernist building designed by Antoni Gaudí, located in the heart of Barcelona.",
+                "image": "https://th.bing.com/th/id/OIP.hkw1eD-NqXLRlZTFWWuWmgHaIC?rs=1&pid=ImgDetMain",
+                "coord":{"latitude":41.39130455645645,  "longitude":2.167081836352858}
+            },
+            {
+                "nom": "Royal Palace of Madrid",
+                "ville": "Madrid",
+                "description": "The official residence of the Spanish royal family in Madrid, a historic palace with stunning architecture.",
+                "image": "https://traveldigg.com/wp-content/uploads/2016/09/Royal-Palace-of-Madrid-Pictures.jpg",
+                "coord":{"latitude":40.41810199948018,  "longitude":-3.7142583600744046}
+            },
+            {
+                "nom": "Prado Museum",
+                "ville": "Madrid",
+                "description": "One of the most important art museums in the world, featuring an extensive collection of European art.",
+                "image": "https://th.bing.com/th/id/OIP.9ldlr2AHELPyMQxaPhd9TwHaE8?rs=1&pid=ImgDetMain",
+                "coord":{"latitude":40.41397782095532, "longitude":-3.692137833089957 }
+            },
+            {
+                "nom": "Puerta del Sol",
+                "ville": "Madrid",
+                "description": "The central square of Madrid, known for its iconic clock tower and vibrant atmosphere.",
+                "image": "https://th.bing.com/th/id/R.65d5bb11918f489f882cee4d27bb4b23?rik=mjAj22B7bloyBw&pid=ImgRaw&r=0",
+                "coord":{"latitude":40.41733791671632, "longitude":-3.702670577213376 }
+            },
+            {
+                "nom": "City of Arts and Sciences",
+                "ville": "Valencia",
+                "description": "An architectural, cultural, and entertainment complex in the city of Valencia.",
+                "image": "https://th.bing.com/th/id/OIP.NOxpQg6z0eQ1r_WeCc1TmwHaE8?rs=1&pid=ImgDetMain",
+                "coord":{"latitude":39.45504075140813, "longitude":-0.3505011331494429 }
+            },
+            {
+                "nom": "Silk Exchange",
+                "ville": "Valencia",
+                "description": "A civil building in Gothic style that served as a silk market in Valencia.",
+                "image": "https://www.vipealo.com/blog/wp-content/uploads/2019/10/jerez-catedral-608x406.jpg",
+                "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+                "nom": "Valencia Cathedral",
+                "ville": "Valencia",
+                "description": "A Gothic-style cathedral built in the 13th century.",
+                "image": "https://www.fodors.com/wp-content/uploads/2017/08/Valencia-Buildings-Valencia-Cathedral-2.jpg",
+                "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+                "nom": "Alcazar of Seville",
+                "ville": "Seville",
+                "description": "A royal palace complex in Seville, known for its Mudéjar architecture.",
+                "image": "https://images.musement.com/cover/0048/31/thumb_4730565_cover_header.jpeg?&q=60&fit=crop",
+                "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+                "nom": "Giralda",
+                "ville": "Seville",
+                "description": "The minaret of the Great Mosque of Seville, converted into the bell tower of Seville Cathedral.",
+                "image": "https://mymodernmet.com/wp/wp-content/uploads/2020/08/Giralda-3.jpg",
+                "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+                "nom": "Plaza de España",
+                "ville": "Seville",
+                "description": "An iconic square in Seville, known for its neo-Mudéjar architecture.",
+                "image": "https://th.bing.com/th/id/R.756df7df9c567148ef25303fe5e6dcd6?rik=FCX09fvWm6ulew&riu=http%3a%2f%2fsevillaintercambio.com%2fwp-content%2fuploads%2fPlaza-Espa%c3%b1a-Sevilla.jpg&ehk=eo3yevR0cdGsjmz04lMxmOY5qr3HucYYJ5Srk%2blgOjc%3d&risl=&pid=ImgRaw&r=0",
+                "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+                "nom": "Great Mosque-Cathedral of Cordoba",
+                "ville": "Cordoba",
+                "description": "An iconic monument in Cordoba, a blend of Islamic and Christian architecture.",
+                "image": "https://omrania.com/wp-content/uploads/shutterstock_594222746-1200x628.jpg",
+                "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+                "nom": "Roman Bridge of Cordoba",
+                "ville": "Cordoba",
+                "description": "A Roman bridge crossing the Guadalquivir River in Cordoba.",
+                "image": "https://www.travellens.co/content/images/2020/08/Roman-Bridge-cordoba.jpg",
+                "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+                "nom": "Juderia of Cordoba",
+                "ville": "Cordoba",
+                "description": "The historic Jewish quarter of Cordoba, with its winding streets and patios.",
+                "image": "https://th.bing.com/th/id/R.680f1570f32b87c34b2e1b29d309a077?rik=8BpP3oDIh33mGQ&riu=http%3a%2f%2fwww.informagiovani-italia.com%2fpiazze_ronda.jpg&ehk=XUFuSURg037z8oaowGios2FT2B%2bUmxn2ow7PLT1ehi0%3d&risl=&pid=ImgRaw&r=0",
+                "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },{
+              "nom": "Mosteiro dos Jerónimos",
+              "ville": "Lisbonne",
+              "description": "Un exemple emblématique de l'architecture manuéline, ce monastère est un site du patrimoine mondial de l'UNESCO.",
+              "image": "https://th.bing.com/th/id/R.5c331b1866da9f0c7947877129c33dda?rik=CxqXG1RwtUNrKg&pid=ImgRaw&r=0",
+              "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+              "nom": "Torre de Belém",
+              "ville": "Lisbonne",
+              "description": "Une tour de guet historique située à Belém, offrant une vue panoramique sur le Tage.",
+              "image": "https://th.bing.com/th/id/OIP.EZEkIzScsGcLXvVJw4NsmwHaEK?rs=1&pid=ImgDetMain",
+              "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+              "nom": "Castelo de São Jorge",
+              "ville": "Lisbonne",
+              "description": "Un château maure perché sur une colline offrant une vue magnifique sur Lisbonne.",
+              "image": "https://th.bing.com/th/id/R.496239c0ad80e68d602aba0f59f3f4e1?rik=x7IFk0nV%2bKJyLQ&pid=ImgRaw&r=0",
+              "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+
+            {
+              "nom": "Ponte Dom Luís I",
+              "ville": "Porto",
+              "description": "Un pont emblématique qui enjambe le Douro, offrant une vue panoramique sur Porto.",
+              "image": "https://th.bing.com/th/id/R.430c8c0949bfbe7a01f74aef162e3f6e?rik=LgAeG9HIlWYwDg&riu=http%3a%2f%2fwww.ruralea.com%2fwp-content%2fuploads%2f2015%2f07%2f10507111_589090381224654_6051676320260456925_o.jpg&ehk=oON7l2%2bBPJIfdDguTTH4Jfl7dJaVnbeGOnkb0wfZfaE%3d&risl=&pid=ImgRaw&r=0",
+              "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+              "nom": "Livraria Lello",
+              "ville": "Porto",
+              "description": "Une librairie historique au design époustouflant, souvent considérée comme l'une des plus belles du monde.",
+              "image": "https://www.bing.com/images/search?view=detailV2&ccid=wvzD71H5&id=0606EFCA71FC6BC21DCC3A06D537EC6A9C2465B0&thid=OIP.wvzD71H5GvsviqAc1Zi5EwHaE8&mediaurl=https%3a%2f%2feuroveloportugal.com%2ffiles%2f2016%2f01%2flivraria-lello-porto.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c2fcc3ef51f91afb2f8aa01cd598b913%3frik%3dsGUknGrsN9UGOg%26pid%3dImgRaw%26r%3d0&exph=802&expw=1200&q=Livraria+Lello+portugal&simid=608030368845140192&FORM=IRPRST&ck=6B86F61CB34F6F1A1FF08153A8B2C3FC&selectedIndex=4&itb=0",
+              "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+              "nom": "Igreja do Carmo",
+              "ville": "Porto",
+              "description": "Une église baroque avec une façade ornée et une riche histoire religieuse.",
+              "image": "https://www.bing.com/images/search?view=detailV2&ccid=2vobGlJA&id=C1736C106B9FF884D136C24DFE411E775B8B562D&thid=OIP.2vobGlJAgYbq2UtUHn-1kAHaFj&mediaurl=https%3a%2f%2f3.bp.blogspot.com%2f-UD8F3cfHP_Q%2fT-Rw1PsjjqI%2fAAAAAAAAKc8%2fLCsC8S3NexY%2fs1600%2f800px-Igrejas_Carmelitas_Carmo_(Porto).jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.dafa1b1a52408186ead94b541e7fb590%3frik%3dLVaLW3ceQf5Nwg%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=Igreja+do+Carmo++portugal&simid=608026254269046223&FORM=IRPRST&ck=834A56BBF0C15B6D6B805FDF99DF7C06&selectedIndex=1&itb=0",
+              "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+              "nom": "Bom Jesus do Monte",
+              "ville": "Braga",
+              "description": "Un sanctuaire célèbre avec un escalier monumental et une vue imprenable sur la ville.",
+              "image": "https://www.bing.com/images/search?view=detailV2&ccid=BBlpxZk0&id=073C51840E1628038D4B5885AE53ED75DA0D2AF8&thid=OIP.BBlpxZk0iKGxKRVyMmwZnQHaEG&mediaurl=https%3a%2f%2fwww.outlookindia.com%2foutlooktraveller%2fpublic%2fuploads%2ffilemanager%2fimages%2fBom-Jesus-do-Monte-Sanctuary-Braga.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.041969c5993488a1b1291572326c199d%3frik%3d%252bCoN2nXtU66FWA%26pid%3dImgRaw%26r%3d0&exph=3420&expw=6178&q=Bom+Jesus+do+Monte++portugal&simid=608035578641648953&FORM=IRPRST&ck=34D2CEB18B5163B96F5606579804EB2D&selectedIndex=7&itb=0",
+              "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+              "nom": "Sé de Braga",
+              "ville": "Braga",
+              "description": "Une cathédrale imposante, l'une des plus anciennes du Portugal, avec une architecture impressionnante.",
+              "image": "https://www.bing.com/images/search?view=detailV2&ccid=WFMcMmUm&id=FC6E445A3E9316F74E0385AE1C33703C54C6E590&thid=OIP.WFMcMmUmS0x39SAcx1yKIQHaEJ&mediaurl=https%3a%2f%2fwww.visitportugal.com%2fsites%2fdefault%2ffiles%2fstyles%2fencontre_detalhe_poi_destaque%2fpublic%2fmediateca%2fS%c3%a9-de-Braga_660x371.jpg%3fitok%3dt-mRR9UK&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.58531c3265264b4c77f5201cc75c8a21%3frik%3dkOXGVDxwMxyuhQ%26pid%3dImgRaw%26r%3d0%26sres%3d1%26sresct%3d1%26srh%3d728%26srw%3d1300&exph=370&expw=660&q=S%c3%a9+de+Braga++portugal&simid=607988870892967489&FORM=IRPRST&ck=832A5428085B0009E640058748F05B5F&selectedIndex=1&itb=0",
+              "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+              "nom": "Santuário do Sameiro",
+              "ville": "Braga",
+              "description": "Un sanctuaire marial avec une grande basilique, entouré d'une belle nature.",
+              "image": "https://www.bing.com/images/search?view=detailV2&ccid=DDG6ttu0&id=4BB64C04592C19CF988574D50931C78ECE2FFDEB&thid=OIP.DDG6ttu0Oep0X8MjGXxgewHaEh&mediaurl=https%3a%2f%2f2.bp.blogspot.com%2f-zN6nXOlFbqk%2fUgJL9W1ycXI%2fAAAAAAAAD1w%2fWcWkvMDoP2o%2fs1600%2fIglesia_Santuario_do_Sameiro.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0c31bab6dbb439ea745fc323197c607b%3frik%3d6%252f0vzo7HMQnVdA%26pid%3dImgRaw%26r%3d0&exph=768&expw=1256&q=Santu%c3%a1rio+do+Sameiro++portugal&simid=608039590140585453&FORM=IRPRST&ck=920CC310A53B1B43094117626EEBF1B9&selectedIndex=2&itb=0",
+              "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+              "nom": "Universidade de Coimbra",
+              "ville": "Coimbra",
+              "description": "Une université historique avec une riche tradition académique, classée au patrimoine mondial de l'UNESCO.",
+              "image": "https://www.bing.com/images/search?view=detailV2&ccid=dzVcg%2bZH&id=87B949DEA2524F8FE3A231C52F596E4AAF85C4C3&thid=OIP.dzVcg-ZH1wlcMZHQK1RpKAHaE5&mediaurl=https%3a%2f%2fwww.en-vols.com%2fwp-content%2fuploads%2fafmm%2f2022%2f05%2fGettyImages-1205896180_Coimbra_Savoir_Phare_Michelin.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.77355c83e647d7095c3191d02b546928%3frik%3dw8SFr0puWS%252fFMQ%26pid%3dImgRaw%26r%3d0&exph=1258&expw=1900&q=Universidade+de+Coimbra+portugal&simid=607986482904698657&FORM=IRPRST&ck=CB070CE233EE63452CAB76BBDD5833B8&selectedIndex=3&itb=0",
+              "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+              "nom": "Conímbriga",
+              "ville": "Coimbra",
+              "description": "Un site archéologique romain bien préservé, offrant un aperçu de l'histoire romaine au Portugal.",
+              "image": "https://www.bing.com/images/search?view=detailV2&ccid=BjZp3iCP&id=1294B67B2F881BFBB42A096936A81146C55A65C1&thid=OIP.BjZp3iCPGR4TDbmJJfQSugHaE8&mediaurl=https%3a%2f%2fwww.vortexmag.net%2fwp-content%2fuploads%2f2023%2f02%2f26507665114_a357b022eb_h-min-1-min.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.063669de208f191e130db98925f412ba%3frik%3dwWVaxUYRqDZpCQ%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=Con%c3%admbriga+portugal&simid=607999621168117627&FORM=IRPRST&ck=F1C6A48E36D16D7D81BC852D0F164848&selectedIndex=1&itb=0",
+              "coord":{"latitude":35.77493808107498, "longitude":-5.806847383633444}
+            },
+            {
+              "nom": "Mosteiro Santa Clara-a-Velha",
+              "ville": "Coimbra",
+              "description": "Un monastère gothique situé sur les rives du Mondego, témoin de l'histoire médiévale.",
+              "image": "https://www.bing.com/images/search?view=detailV2&ccid=8cK%2ba8t5&id=9B442BF1AEFFF7C4E5F9868D7BDB42073A44144B&thid=OIP.8cK-a8t5H_UyQ8WS6mGwSgHaEJ&mediaurl=https%3a%2f%2flive.staticflickr.com%2f5078%2f5884378463_ecfc29dd78_b.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f1c2be6bcb791ff53243c592ea61b04a%3frik%3dSxREOgdC23uNhg%26pid%3dImgRaw%26r%3d0&exph=574&expw=1023&q=Mosteiro+Santa+Clara-a-Velha+portugal&simid=607998143728020217&FORM=IRPRST&ck=70B1E4C52EC04E966CB3022137339BB0&selectedIndex=13&itb=0",
+              "coord":{"latitude":40.202970834436364,"longitude":-8.433114896862483 }
+            },
+            {
+              "nom": "Sé Catedral de Faro",
+              "ville": "Faro",
+              "description": "Une cathédrale médiévale avec des éléments gothiques et mauresques, située dans le centre historique.",
+              "image": "https://www.bing.com/images/search?view=detailV2&ccid=fma3VVi4&id=790531A81CFCAFC31C159A3038A6266CDD847C1B&thid=OIP.fma3VVi4mRo4ra_e-Tvd9wHaE7&mediaurl=https%3a%2f%2fwww.travel-in-portugal.com%2fsites%2fdefault%2ffiles%2fphotos%2ffaro-cathedral.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7e66b75558b8991a38adafdef93bddf7%3frik%3dG3yE3Wwmpjgwmg%26pid%3dImgRaw%26r%3d0&exph=799&expw=1200&q=S%c3%a9+Catedral+de+Faro+portugal&simid=608019524049774260&FORM=IRPRST&ck=97E8B507F65177C6F71048758DB4F4C8&selectedIndex=0&itb=0",
+              "coord":{"latitude":40.202970834436364,"longitude":-8.433114896862483 }
+            },
+            {
+              "nom": "Arco da Vila",
+              "ville": "Faro",
+              "description": "Une arche historique située à l'entrée de la vieille ville, témoignant du passé de Faro.",
+              "image": "https://www.bing.com/images/search?view=detailV2&ccid=0zk4Fjmt&id=5770D86CF332ABD984DC86A46472D3E3754121EC&thid=OIP.0zk4FjmtW8F978l9tqy5dwHaFV&mediaurl=https%3a%2f%2fwww.travel-in-portugal.com%2fsites%2fdefault%2ffiles%2fattractions%2ffaro-arco-da-vila.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d339381639ad5bc17defc97db6acb977%3frik%3d7CFBdePTcmSkhg%26pid%3dImgRaw%26r%3d0&exph=1152&expw=1600&q=Arco+da+Vila+portugal&simid=607993028407919740&FORM=IRPRST&ck=0467645AD220CF8A24C7305D201EAE30&selectedIndex=0&itb=0",
+              "coord":{"latitude":40.202970834436364,"longitude":-8.433114896862483 }
+            },
+            {
+              "nom": "Ilha Deserta",
+              "ville": "Faro",
+              "description": "Une île déserte au large de Faro, offrant des plages préservées et une nature sauvage.",
+              "image": "https://www.bing.com/images/search?view=detailV2&ccid=SVl3gS3L&id=765B30BF2D40DEF320972CC89AED1AB5E19B9E75&thid=OIP.SVl3gS3LCuUbBEJlI8jHWgHaET&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.495977812dcb0ae51b04426523c8c75a%3frik%3ddZ6b4bUa7ZrILA%26riu%3dhttp%253a%252f%252fwww.algarvetips.com%252fwp-content%252fuploads%252f2016%252f02%252fIlha-Deserta-Faro.jpg%26ehk%3dejNJ373WkHPYdfM97YLNYzq%252fvHqvigEyyWLm8XM%252bvWY%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=697&expw=1200&q=Ilha+Deserta+portugal&simid=608011831772733360&FORM=IRPRST&ck=AB78FD08EB24071E92CD2EC2C93536C6&selectedIndex=0&itb=0",
+              "coord":{"latitude":40.202970834436364,"longitude":-8.433114896862483 }
+            }
+        
+]
+    
+      

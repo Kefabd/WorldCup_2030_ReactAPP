@@ -1,0 +1,269 @@
+{
+    "Morocco": [
+        {
+            "name": "Grand Stade de Casablance",
+            "city": "Casablanca - Benslimane",
+            "nbrplaces": 113000,
+            "pictures": [
+                "https://mobile.ledesk.ma/wp-content/uploads/2023/07/Capture-decran-2023-07-04-a-12.16.50.png",
+                "https://www.bladi.net/img/logo/grand-stade-casablanca-coupe-monde-2030.jpg"
+                
+            ],
+             "coord": {
+                "latitude": 33.5823591929603, 
+                "longitude": -7.647306766349871}
+        },
+        {
+            "name": "Grand Stade de Marrakesh",
+            "city": "Marrakesh - Tameslouht",
+            "nbrplaces": 69565,
+            "pictures": [
+                "https://fr.hibapress.com/wp-content/uploads/2019/07/Grand-Stade-de-Casablanca-1.jpg"
+            ],
+             "coord": {
+                "latitude": 31.707234973682482, 
+                "longitude":  -7.980015302529178}
+        },
+        {
+            "name": "Stade Ibn Battouta",
+            "city": "Tanger",
+            "nbrplaces": 88000,
+            "pictures": [
+                "https://www.bladi.net/img/jpg/stade-ouarzazate.jpg"
+            ],
+             "coord": {
+                "latitude": 35.74303746544572,  
+                "longitude": -5.855155216969473}
+        },
+        {
+            "name": "Complexe Prince Moulay Abdellah",
+            "city": "Rabat",
+            "nbrplaces": 69500,
+            "pictures": [
+                "https://www.lopinion.ma/photo/art/grande/75046029-52477735.jpg?v=1693927962",
+                "https://www.lopinion.ma/photo/art/grande/75046029-52477764.jpg?v=1693928045",
+                "https://www.skyscrapercity.com/attachments/download-10-jpeg.5971989/",
+                "https://www.skyscrapercity.com/attachments/img_2110-jpeg.5814738/"
+            ],
+             "coord": {
+                "latitude": 33.95992193985454,  
+                "longitude": -6.888850814165056}
+        },
+        {
+            "name": "Stade de Fes",
+            "city": "Fes",
+            "nbrplaces": 46092,
+            "pictures": [
+                "https://www.bladi.net/img/logo/stade-fes-coupe-du-monde-2030.jpg"
+            ],
+             "coord": {
+                "latitude": 34.00453299852504, 
+                "longitude": -4.962708809813297}
+        },
+        {
+            "name": "Stade Adrar",
+            "city": "Agadir",
+            "nbrplaces": 46048,
+            "pictures": [
+                "https://cloudfront-eu-central-1.images.arcpublishing.com/le360/BEEIJM7B3NG2FOYHUUZYX3EN2I.jpg"
+            ],
+             "coord": {
+                "latitude": 30.42773552701813,  
+                "longitude": -9.539373487664392}
+        }
+    ],
+    "Spain": [
+        {
+            "name": "Abanca BALAIDOS",
+            "city": "Vigo",
+            "nbrplaces": 31100,
+            "pictures": [
+                "https://cflvdg.avoz.es/sc/6D7jGyankHzkk-pBC-thCo0WSlw=/480x/2023/04/10/00121681149901469936252/Foto/V10A3300.jpg",
+                "https://1.bp.blogspot.com/-M5gm4HaIt08/VP17BFPR5FI/AAAAAAAAGc0/4KQz4F3pzak/s1600/balaidosnuevo%2Bcopia.jpg"
+            ],
+             "coord": {
+                "latitude": 42.212055189862525, 
+                "longitude": -8.740614400204347}
+        },
+        {
+            "name": "Estadio DE RIAZOR",
+            "city": "La Coruna",
+            "nbrplaces": 48000,
+            "pictures": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBJR6UbRTSjC9rF9WMyoO7iK_F2AQIFDDLvkBsVkfAwDQeRZTXqyjAEFX0dDc1BuF302Y&usqp=CAU",
+                "https://estaticos-cdn.prensaiberica.es/clip/04ca8ad3-2a9a-400d-bcc2-01d42c302c7c_16-9-aspect-ratio_default_0_x844y1114.jpg"
+            ],
+             "coord": {
+                "latitude": 43.36843599490005,  
+                "longitude": -8.416681111098166}
+        },
+        {
+            "name": "Estadio EL MOLINON",
+            "city": "Gijon",
+            "nbrplaces": 29538,
+            "pictures": [
+                "https://media-cdn.tripadvisor.com/media/photo-s/13/ec/46/26/estadio-de-el-molinon.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/c/c6/Elmolinon_QUINI_GIJON.jpg"
+            ],
+             "coord": {
+                "latitude": 43.536275344226844, 
+                "longitude": -5.636810736266713}
+        },
+        {
+            "name": "SAN MAMES",
+            "city": "BILBAO",
+            "nbrplaces": 53331,
+            "pictures": [
+                "https://media.istockphoto.com/id/1334807306/fr/photo/vol-au-dessus-de-bilbao.jpg?s=612x612&w=0&k=20&c=2m5iO-OhXe5XmVY713K2pT4hw7wY4zrs88G3sAtK704=",
+                "https://sanmames.athletic-club.eus/wp-content/uploads/2022/04/entradas-san-mames.jpg"
+            ],
+             "coord": {
+                "latitude": 43.264279978441905,  
+                "longitude": -2.9486710479176588}
+        },
+        {
+            "name": "Estadio ANOETA",
+            "city": "SAN SEBASTIAN",
+            "nbrplaces": 40000,
+            "pictures": [
+                "https://www.mundodeportivo.com/files/image_449_220/uploads/2019/09/09/60e7c7041d3c8.png",
+                "https://cdn.realsociedad.eus//Uploads/contenidos/thumbs/_0__2_osk09382_945_.jpg",
+                "https://img.asmedia.epimg.net/resizer/FM0T2prgl20JEe3TDtBfbuiX_Sw=/360x203/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/T3XKFAWXP5MVZE6IFBQBTBZXIM.jpg"
+            ],
+             "coord": {
+                "latitude": 43.301521076982745,  
+                "longitude": -1.9729018658762025}
+        },
+        {
+            "name": "NUEVA ROMAREDA",
+            "city": "ZARAGOZA",
+            "nbrplaces": 42500,
+            "pictures": [
+                "https://static.eldiario.es/clip/ecad9875-a578-4907-b7fc-9efda854182b_16-9-discover-aspect-ratio_default_0.jpg",
+                "https://www.estadiodeportivo.com/imagenes/d8d5c135-8158-4085-89b7-ea54ac1fc987_1200x675.jpeg"
+            ],
+             "coord": {
+                "latitude": 41.63750783212447, 
+                "longitude": -0.8983139706287473}
+        },
+        {
+            "name": "CAMP NOU",
+            "city": "Barcelona",
+            "nbrplaces": 105053,
+            "pictures": [
+                "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/46d03e3d-e39f-4a38-b901-378fda3cc91b.jpeg",
+                "https://sportpro.ma/wp-content/uploads/2021/10/nou-camp-1000x600.jpg"
+            ],
+             "coord": {
+                "latitude": 41.37882880716302, 
+                "longitude": 2.121476907904754}
+        },
+        {
+            "name": "NOU MESTALLA",
+            "city": "Valencia",
+            "nbrplaces": 70000,
+            "pictures": [
+                "https://static.ostadium.com/galleries/nou-mestalla-version-juin-2022-illus.jpg",
+                "https://static.ostadium.com/galleries/nou-mestalla-2010-illus.jpg"
+            ],
+             "coord": {
+                "latitude": 39.47576042948591, 
+                "longitude": -0.35541293521022016 }
+        },
+        {
+            "name": "Estadio LA ROSALEDA",
+            "city": "MALAGA",
+            "nbrplaces": 45000,
+            "pictures": [
+                "https://www.estadiodeportivo.com/imagenes/edbf6003-44b2-4209-be25-996f58da8e66_1200x680.jpeg"
+            ],
+             "coord": {
+                "latitude": 36.733700576932215, 
+                "longitude": -4.42611019390965}
+        },
+        {
+            "name": "Estadio SANTIAGO BERNABEU",
+            "city": "Madrid",
+            "nbrplaces": 84744,
+            "pictures": [
+                "https://www.soccerbible.com/media/91630/bernabeu-fb-min.jpg",
+                "https://thegoodlife.fr/wp-content/thumbnails/uploads/sites/2/2023/09/the-good-life-nouveau-santiago-bernabeu-vignette_3744x2400-tt-width-1872-height-1200-fill-0-crop-0-bgcolor-eeeeee.jpg",
+                "https://ds-images.bolavip.com/news/image/800/800/?src=https://images.worldsoccertalk.com/webp/full/WST_20230903_WST_453877_Santiago-Bernabeu.webp"
+            ],
+             "coord": {
+                "latitude": 40.453218307294485, 
+                "longitude": -3.687899182233594 }
+        }
+    ],
+    "Portugal": [
+        {
+            "name": "Estadio JOSé EL VALADE",
+            "city": "Lisbon",
+            "nbrplaces": 50095,
+            "pictures": [
+                "https://static.ostadium.com/galleries/estadio-jose-alvalade-xxi-illus.jpg",
+                "https://www.portugal.net/fr/wp-content/uploads/sites/141/stade-sportif-de-lisbonne.jpg"
+            ],
+            "coord": {
+                "latitude": 38.761372158470536, 
+                "longitude": -9.16184364822622}
+        },
+        {
+            "name": "Estadio DA LUZ",
+            "city": "Lisbon",
+            "nbrplaces": 64642,
+            "pictures": [
+                "https://www.sacyrinfraestructuras.com/documents/120248212/120249105/Estadio-da-luz_3.jpg/5d1f7332-2a39-fb50-c33b-c0f078a921a9?t=1553181262900",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-9ykE78aXnEX9KBfboXlGZX4EfKdwvL6McU_xR8pnw0zuYmQJqoFzeOyOm6jl8aeDOaA&usqp=CAU"
+            ],
+            "coord": {
+                "latitude": 38.75286820854182,  
+                "longitude": -9.184977765965414}
+        },
+        {
+            "name": "Estadio DO DRAGAO",
+            "city": "Lisbone",
+            "nbrplaces": 50033,
+            "pictures": [
+                "https://bordalo.observador.pt/v2/q:84/rs:fill:2000:1124/c:2000:1124:nowe:0:141/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2015/10/2284665.jpg",
+                "https://portocanal.sapo.pt/uploads/cache/noticia_00283830-580x326.jpeg"
+            ],
+            "coord": {
+                "latitude": 41.16190728443504, 
+                "longitude": -8.583376427211869}
+        }
+    ],
+    "Uruguay": [
+        {
+            "name": "Estadio CENTINARIO",
+            "city": "Montevideo",
+            "nbrplaces": 80000,
+            "pictures": [
+                "https://media.coliseum-online.com/2023/08/Coliseum-GSVA-News-New-design-concept-presented-for-Estadio-Centenario.jpg",
+                "https://preview.redd.it/en-una-exposici%C3%B3n-organizada-por-semanario-b%C3%BAsqueda-sobre-v0-1wkrmdbqsoib1.jpg?auto=webp&s=5374b632f500689957ac27006627815ed305059f"
+            ]
+        }
+    ],
+    "Paraguay": [
+        {
+            "name": "Estadio CONMEBOL",
+            "city": "Asucion",
+            "nbrplaces": 60000,
+            "pictures": [
+                "https://www.elfutbolero.com.py/__export/1696554400410/sites/elfutboleropy/img/2023/10/05/befunky-design_7.jpg_1889316708.jpg",
+                "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fversuspy2.fra1.cdn.digitaloceanspaces.com%2Fversus%2Fwp-content%2Fuploads%2F2023%2F03%2F31154546%2FCaptura-de-Pantalla-2023-03-31-a-las-15.45.06.png"
+            ]
+        }
+    ],
+    "Argentina": [
+        {
+            "name": "Estadio MONUMENTAL",
+            "city": "Buenos Aires",
+            "nbrplaces": 84567,
+            "pictures": [
+                "https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.lapaginamillonaria.com%2Fjpg%2Ffull%2FLPM_20231013_LPM_24687_Estadio-Monumental-3-e1697199866881.jpg&width=1200&height=740",
+                "https://i.imgur.com/jlENu2o.jpg"
+            ]
+        }
+    ]
+}

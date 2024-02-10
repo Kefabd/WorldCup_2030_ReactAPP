@@ -1,0 +1,30 @@
+{
+    "clothingCategories": [
+      {
+        "name": "Djellaba",
+        "description": "The Djellaba is a traditional Moroccan garment worn by both men and women. Originating from ancient weaving practices, it features a hood, wide sleeves, and is crafted from wool or cotton. Modern women's Djellabas are more fitted, colorful, and influenced by contemporary fashion trends.",
+        "image": "url_vers_image_djellaba.jpg"
+      },
+      {
+        "name": "Caftan",
+        "description": "The Caftan, with origins dating back to the Ottoman Empire, is a long robe worn by women, especially on special occasions. Elegant and refined, it is made from luxurious materials like velvet, silk, and brocade, adorned with gold or silver threads and exquisite embroidery. The Caftan is also worn casually at home.",
+        "image": "url_vers_image_caftan.jpg"
+      },
+      {
+        "name": "Burnous",
+        "description": "The Burnous, in black or white, is worn over the Djellaba. It is a part of traditional Moroccan attire, often used during ceremonies. Additionally, men may wear a fez or a white turban on special occasions.",
+        "image": "url_vers_image_burnous.jpg"
+      },
+      {
+        "name": "Saroual",
+        "description": "The Saroual is a wide, baggy pant often worn in traditional Moroccan dress. It adds a distinctive style to the overall ensemble, and men may don a Fez or a white turban during certain ceremonies.",
+        "image": "url_vers_image_saroual.jpg"
+      },
+      {
+        "name": "Babouches",
+        "description": "Babouches are traditional Moroccan shoes, crafted from leather, and come in two main styles: square-toed, inspired by Berber design, and citadine with a more refined, angular appearance. While modern shoes are popular, Babouches are still cherished, especially for home or ceremonial occasions.",
+        "image": "url_vers_image_babouches.jpg"
+      }
+    ]
+  }
+  

@@ -1,0 +1,106 @@
+[
+    {
+      "nom": "Casablanca",
+      "population": 3359818,
+      "superficie": 220,
+      "paysId":3,
+      "Url":"https://th.bing.com/th/id/OIP.UxRWu5kAmH1R8BW2w1XhCwHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "nom": "Marrakech",
+      "population": 928850,
+      "superficie": 230,
+      "paysId":3,
+      "Url":"https://th.bing.com/th/id/R.4db9f5c2819a463b1cb26b7e451362d2?rik=82MpfKcnzhvEGQ&pid=ImgRaw&r=0"
+    },
+    {
+      "nom": "Rabat",
+      "population": 577827,
+      "superficie": 117,
+      "paysId":3,
+      "Url":"https://www.abidcars.com/blog/wp-content/uploads/rabat.jpg"
+    },
+    {
+      "nom": "Fès",
+      "population": 1112072,
+      "superficie": 320,
+      "paysId":3,
+      "Url":"https://i.pinimg.com/originals/89/10/79/891079034be1df066c69dddb70436c39.jpg"
+    },
+    {
+      "nom": "Tanger",
+      "population": 947952,
+      "superficie": 252,
+      "paysId":3,
+      "Url":"https://th.bing.com/th/id/OIP.11mvGC5UsKcePrM8SK2nZQHaE8?rs=1&pid=ImgDetMain"
+    }, {
+      "nom": "Barcelona",
+      "population": 1620343,
+      "superficie": 101.9,
+      "paysId": 1,
+      "Url": "https://images.salaun-holidays.com/(Image)-image-Espagne-Barcelone-vue-depuis-le-Parc-Guell-10-as_208662824.jpg"
+  },
+  {
+      "nom": "Madrid",
+      "population": 3348536,
+      "superficie": 604.3,
+      "paysId": 1,
+      "Url": "https://images3.alphacoders.com/673/thumb-1920-673159.jpg"
+  },
+  {
+      "nom": "Valencia",
+      "population": 791413,
+      "superficie": 134.7,
+      "paysId": 1,
+      "Url": "https://www.voyageavecnous.fr/wp-content/uploads/2020/01/visiter-valence.jpg"
+  },
+  {
+      "nom": "Seville",
+      "population": 688711,
+      "superficie": 140.8,
+      "paysId": 1,
+      "Url": "https://th.bing.com/th/id/OIP.AOogNnQBGFtcECwk1rOHHAHaFh?rs=1&pid=ImgDetMain"
+  },
+  {
+      "nom": "Cordoba",
+      "population": 326609,
+      "superficie": 125.1,
+      "paysId": 1,
+      "Url": "https://d1bvpoagx8hqbg.cloudfront.net/originals/erasmus-experience-cordoba-spain-katarzyna-4a910603ca2cb2cf52a798cb0d7d3686.jpg"
+  },
+    {
+      "nom": "Lisbonne",
+      "population": 505526,
+      "superficie": 100,
+      "paysId": 2,
+      "Url": "https://th.bing.com/th/id/OIP.FScS9dLCK9EKughHXwg0dgHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "nom": "Porto",
+      "population": 214349,
+      "superficie": 41,
+      "paysId": 2,
+      "Url": "https://th.bing.com/th/id/OIP.G3qUkquh8dHOZDyAqzypTAHaEy?rs=1&pid=ImgDetMain"
+    },
+    {
+      "nom": "Braga",
+      "population": 181874,
+      "superficie": 183,
+      "paysId": 2,
+      "Url": "https://th.bing.com/th/id/R.101a1345214c860aca2cc54598104c3b?rik=N6HThTIqf5weIA&pid=ImgRaw&r=0"
+    },
+    {
+      "nom": "Coimbra",
+      "population": 143396,
+      "superficie": 319,
+      "paysId": 2,
+      "Url": "https://th.bing.com/th/id/OIP.VYtkyC3EEW8ppFdkCV3U-gHaE8?rs=1&pid=ImgDetMain"
+    },
+    {
+      "nom": "Faro",
+      "population": 118186,
+      "superficie": 202,
+      "paysId": 2,
+      "Url": "https://th.bing.com/th/id/OIP.8ilq9x3FALpaBgjFXYWusQHaE8?rs=1&pid=ImgDetMain"
+    }
+  ]
